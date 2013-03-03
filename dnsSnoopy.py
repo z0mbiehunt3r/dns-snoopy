@@ -340,7 +340,6 @@ def banner():
         |----------------------------------------------------------|
         |                      DNS Cache Snooper                   |
         |               Alejandro Nolla (z0mbiehunt3r)             |
-        |                                      Powered by Buguroo! |
         |----------------------------------------------------------|\n'''
     print banner    
 
